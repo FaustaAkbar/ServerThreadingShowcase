@@ -1,4 +1,4 @@
-# Jarkomfinal: Single-threading vs Multi-threading Server 🚀
+# ServerThreadingShowcase: Single-threading vs Multi-threading Server 🚀
 
 This repository contains a project that demonstrates the differences between a single-threading server and a multi-threading server. The project showcases how each server handles multiple client requests, focusing on performance, concurrency, and resource management.
 
@@ -34,11 +34,11 @@ To set up the project locally, follow these steps:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/FaustaAkbar/jarkomfinal.git
+    git clone https://github.com/FaustaAkbar/ServerThreadingShowcase.git
     ```
 2. Navigate to the project directory:
     ```bash
-    cd jarkomfinal
+    cd ServerThreadingShowcase
     ```
 ## Usage 🚀
 
